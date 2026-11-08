@@ -1,178 +1,96 @@
-# ChatGPT充值教程：Plus/Pro订阅与付款方式说明
+# 国内怎么充值 ChatGPT Plus？支付宝/微信购买图文教程（附操作视频）
 
-本仓库由 PayForGPT 维护，是商家指南。PayForGPT 销售 ChatGPT 会员相关服务，和本仓库有商业关联。这不是 OpenAI 官方文档，不是 GitHub 官方文档，也不是独立测评。不保证搜索收录、排名或购买转化。
+没有海外信用卡时，ChatGPT 官网往往付不了款。如果你要把 Plus 开在自己的账号上，又想用支付宝或微信，可以按这篇在 PayForGPT 下单。本教程由 PayForGPT 编写，PayForGPT 是销售这些会员的商家，不是 OpenAI 官方。
 
-下面的购买入口都指向第三方 PayForGPT，不是 chatgpt.com 的官方结账页。
+能用官网银行卡，或 App Store、Google Play 能扣款，就在那个渠道订阅，扣款和取消都在原渠道。要用支付宝或微信，打开 [PayForGPT 首页](https://payforgpt.com/)，选 Plus 月卡，点「免登录购买」。
 
-## 怎么选怎么买
+这篇教的是 Plus 的购买过程：选商品、填一个能收信的邮箱、选微信或支付宝、完成验证、核对金额，然后按订单页付款和激活。文末说明怎么查订单。附有 65 秒视频和逐步截图。
 
-你要买的是自己 ChatGPT 账号上的会员，不是 API 额度，也不是别人的共享号。
-
-能用 OpenAI 网页或官方 App 里实际出现的付款方式时，订阅由那个平台管理，优先走那条官方路径。
-
-没有可用的官方付款方式、又要把会员开在自己的账号上时，用第三方 PayForGPT。2026-11-08 的公开页面上，可选商品是 Plus、5x、20x 月卡。首页点「免登录购买」，不用注册该站账号。商品页上的付款选项包括支付宝、微信支付、USDT 和人工转账；这一笔最终出现哪些入口，以结算页为准。
-
-价格和库存写在商品页上，打开时看当时的数字。本页不抄一份固定价格。
-
-当前商品从 [第三方 PayForGPT 首页](https://payforgpt.com/) 进入。下面有 2026-11-08 13:43（北京时间）的真实浏览器截图，以及一段下单前操作视频。同一套材料也在 [从选商品到查单的充值操作](docs/chatgpt-recharge-guide.md)。
-
-## 下单前操作演示
-
-这段视频是下单前操作演示，非付款到账实测。内容是真实首页选购、打开 Plus 详情、填入不可投递的示例邮箱、选择微信支付，然后停在提交之前。没有创建订单，没有进入收银台，没有付款，也没有到账。
-
-时长 65 秒。点开文件后，GitHub 可以播放或下载。本页不会自动把画面嵌进来播放。下面这张图只是同一次停留在提交前的截图，不是正在播放的视频。
+视频和截图是下单前操作演示，不是付款到账实测。演示停在「创建订单并去支付」之前。图里的价格是当天页面上的数字，下单时以商品页显示为准。演示邮箱 `tutorial@example.test` 不能收信，请换成你自己的邮箱。
 
 [观看或下载：下单前操作演示，非付款到账实测](assets/video/pfg-plus-purchase-walkthrough.mp4)
 
-![提交前的静止画面，用作视频预览。微信支付已选，验证已完成，创建订单按钮没有被点击。](assets/screenshots/06-pre-submit-focused.png)
+点开文件后可以在 GitHub 播放或下载。这页不会自动播放。下面是视频停住时的画面。
 
-## 官方付款和第三方订单
+![验证完成后的订单表单。微信支付已选中，创建订单并去支付还没有点击。](assets/screenshots/06-pre-submit-focused.png)
 
-三条路径不要混成一笔。
+更细的填表说明在 [用支付宝或微信下单 ChatGPT Plus](docs/chatgpt-recharge-guide.md)。
 
-官方网页：在 chatgpt.com 登录你的账号，在设置里的账单页面订阅。钱付给 OpenAI 这条账单。换设备时登录同一个 ChatGPT 账号，不必再买一份。
+## 按这个顺序买 Plus
 
-官方 App：Apple App Store 或 Google Play 里的订阅，由对应商店管理。在一个商店买了，不会自动取消另一个渠道，也不会自动迁到网页或商家订单。取消和到期的读法在 [网页、App Store 和 Google Play 要分开查重](docs/tutorials/03-separate-web-apple-google.md)。
+### 1. 从首页进入商品
 
-第三方 PayForGPT：你在商家页面建一张订单，用页面给出的方式付款，再按该订单的说明把会员做到你自己的 ChatGPT 账号。这张订单有订单号、下单邮箱和查单密码。它不会替你取消 Apple、Google 或网页上已有的订阅。
+打开 [PayForGPT 首页](https://payforgpt.com/)。页面上有 Plus、5x、20x 三张月卡。日常使用先选 Plus，点 Plus 下面的「免登录购买」。
 
-共享账号、成品号不在本教程的购买步骤里。会员应落在你自己能登录的账号上。
+![首页三张月卡，Plus 被选中，每张下面都有免登录购买。](assets/screenshots/01-home-plus-entry.png)
 
-## Plus 与 Pro 按需求选
+也可以先看 [价格目录](https://payforgpt.com/price)，确认三档都在，再进入 Plus 商品页：[ChatGPT Plus 月卡](https://payforgpt.com/product/7)。
 
-先写你被挡住的事情，再选商品。只因为档位更高就买，容易买错。
+![价格目录中的 Plus、5x 和 20x。](assets/screenshots/02-price-listing.png)
 
-日常写作、学习和一般对话，先看 Plus 月卡。2026-11-08 的 Plus 商品页写明，这款交付的是兑换卡密，由你按该订单的说明自行激活，再回同一个 ChatGPT 账号核对 Plus 方案和周期。
+商品页会写出名称、当前价格、库存，以及是否还要兑换。Plus 这款写的是兑换卡密：付款后在订单里领取，按该订单的说明自己激活，再回 ChatGPT 账号看是不是 Plus。页面不收 ChatGPT 登录密码。已有订阅可以覆盖，但时间不会叠加上去。菲律宾地区不支持这种覆盖。账号上如果还有苹果或谷歌的订阅，先看 [付款前要核对的账号和渠道](docs/tutorials/02-check-account-before-paying.md)，商家订单不会替你取消那边的续费。
 
-已经反复碰到用量或功能上限，再看 5x 或 20x。这两档是商家商品名，不是 OpenAI 按钮上的名字。5x 商品页写明：它对照官方 Pro 档选择更高用量，不直接等于某一美元档，也不写成 Pro 500。20x 商品页写明：它是比 5x 更高用量的货架规格，不直接写成官方 Pro 200 或 Pro 500。官方帮助页使用的 Pro 名称是 Pro 100、Pro 200、Pro 500。对不上就停，打开该商品页读它写出的实际计划。
+![Plus 商品页，包含价格、库存、购买前核对和不要密码。](assets/screenshots/03-plus-product-details.png)
 
-5x 和 20x 的商品页没有把交付物写成和 Plus 同一句「兑换卡密」。它们要求你看该页的交付说明：实际收到什么、是否还要兑换、怎样核对权益。不要用 Plus 的卡密句子套到这两档。
+5x 和 20x 是店里的另外两档，不是 OpenAI 页面上的 Pro 100、Pro 200、Pro 500。用量不够再考虑它们，打开对应商品页看实际计划和交付方式。对照写在 [Plus 和 Pro 怎么选](docs/tutorials/04-choose-plus-and-pro.md)。
 
-官方档位和商品名的差别，辅助说明在 [按需求区分 Plus 和 Pro](docs/tutorials/04-choose-plus-and-pro.md)。会员和 API 额度的差别在 [会员付款和 API 额度不是同一笔账](docs/tutorials/01-membership-and-api-balance.md)。
+### 2. 填写能收信的邮箱
 
-## 在 PayForGPT 下单
+商品页往下就是订单表单。数量保持 1。接收邮箱填一个你能收到信的地址，订单和卡密都会发到这里，它不一定是 ChatGPT 登录邮箱。来源和优惠码可以空着。
 
-下面每一步都是 2026-11-08 13:43（北京时间）浏览器里的真实画面。实拍停在按下「创建订单并去支付」之前。没有创建订单，没有进入收银台，没有付款，没有激活，也没有到账。图里的金额只是拍摄当时页面上的数字，不是长期报价。
+付款方式里有支付宝、微信支付、USDT 和人工转账。支付宝和微信会打开收银台。USDT 和人工转账用这一单结算页上的收款信息，不要用以前的截图。
 
-### 打开首页看 Plus 入口
+![还没填写的订单表单，数量是 1，四种付款方式都在。](assets/screenshots/04-order-form-blank.png)
 
-打开 [第三方 PayForGPT 首页](https://payforgpt.com/)。这次看到的是三张月卡。Plus 被默认选中，卡片上有「免登录购买」。5x 和 20x 在旁边，也可以点各自的「免登录购买」。
+演示里填的是 `tutorial@example.test`，只为让输入框里有字。这个地址收不到邮件。你要换成自己的邮箱，不要填密码或验证码。
 
-![PayForGPT 首页。Plus 月卡被选中，旁边是 5x 和 20x，每张卡片下都有免登录购买。画面上的金额是拍摄当时的价格。](assets/screenshots/01-home-plus-entry.png)
+选好微信或支付宝后，页面会做安全验证。验证进行时，创建订单的按钮先不能点。
 
-图：首页入口。拍摄时 Plus 卡片显示 ¥160.00。请以你打开时的页面为准。
+![邮箱已填入示例地址，微信支付被选中，安全验证还在进行。](assets/screenshots/05-example-email-wechat-selected-verifying.png)
 
-### 打开价格目录
+### 3. 验证通过后再提交
 
-接着打开 [第三方 PayForGPT 价格目录](https://payforgpt.com/price)。页面列出 Plus、5x、20x，并写明这三档不是 OpenAI 的官方标价。拍摄时页面写着查询时间 2026-11-08 13:43（Asia/Shanghai），有货 3 项。
+验证变成「验证已完成」后，再看一次商品名和应付金额。没问题再点「创建订单并去支付」。创建订单这一下不扣款，钱是在后面的结算页付的。
 
-Plus 卡片的目标地址是商品页 `/product/7#pay`。这次拍摄里，点击该卡片后浏览器地址没有变化，所以不能写成已经顺利跳进商品页。详情是随后直接打开那个公开地址才看到的。
+演示到这里停住，没有点提交。裁掉空白的图如下，[未裁剪原图](assets/screenshots/06-pre-submit-verification-passed.png) 也在仓库里。
 
-![PayForGPT 价格目录。左侧是选中的 Plus 月卡，右侧是 5x 和 20x。页面写着拍摄当时的金额，并说明价格以当前目录和结算页为准。](assets/screenshots/02-price-listing.png)
+![验证已完成，微信支付仍被选中，创建订单并去支付尚未点击。](assets/screenshots/06-pre-submit-focused.png)
 
-图：价格目录。金额同样只代表拍摄当时。
+提交前把商品说明再扫一遍。Plus 写明是卡密，由你按本单说明激活。说明里如果要求额外授权，先看清交给谁、用来做什么。看不清就先不要交。不要把密码、验证码、cookie、session 或 token 发到聊天里。不收登录密码，并不等于这件事没有账号风险。
 
-### 直接打开 Plus 商品页
+![商品说明，写着 Plus 交付兑换卡密，以及付款前要核对的事项。](assets/screenshots/07-product-terms-pre-submit.png)
 
-在地址栏打开 [第三方 PayForGPT 的 Plus 商品页](https://payforgpt.com/product/7)。页面标题是「ChatGPT Plus 月卡｜国内支付宝微信充值」，并标着独立服务、非官方运营。
+### 4. 按订单付款，再回账号看 Plus
 
-这一屏能看到：拍摄当时的金额、库存、免注册、创建订单本身不会扣款、购买前核对，以及「不要密码」。购买前核对里写着：已有订阅未到期时，这款可以覆盖已有订阅，周期起算要先核对；菲律宾地区不支持覆盖已有订阅。
+点提交之后，按结算页上的金额和收款信息付款，记下订单号、下单邮箱和查单密码。查单密码只填在 [PayForGPT 订单查询](https://payforgpt.com/order)，不要发到别处。
 
-![Plus 商品详情。左侧是 Plus 图，右侧是商品名、拍摄当时的金额、库存和购买前核对，下面有不要密码等说明。](assets/screenshots/03-plus-product-details.png)
+付款后打开这张订单。还在核对或交付，就等这一单，不要再付一笔。订单完成后，按里面的说明兑换，然后打开同一个 ChatGPT 账号，看方案是不是 Plus、周期对不对。卡密出现，只说明可以开始兑换，账号里看到 Plus 才算这一单对上了。
 
-图：Plus 商品说明。页面上还有「失败全额退回」「质保30天」等字样。那是拍摄时页面自己的文字，这次没有验证退款或质保，本教程不把它们写成承诺。
-
-5x、20x 不在这张图里。它们的商品名不是官方档位名，交付也不要套用 Plus 的卡密句子。对照见 [按需求区分 Plus 和 Pro](docs/tutorials/04-choose-plus-and-pro.md)。
-
-### 看空白订单表单
-
-仍在同一商品页往下，是还没填写的表单。数量默认是 1，范围写着单笔 1 到 20 件。必填项是「接收邮箱」，说明最多约 120 个字符，用来收发货和订单通知。来源和优惠码可以不填。
-
-付款方式有四项：支付宝、微信支付、USDT、人工转账。支付宝和微信会打开收银台。USDT 和人工转账按当次结算页的收款信息付，不要用历史地址。
-
-安全验证还没开始。按钮「创建订单并去支付」已经出现，但这一张图没有点击它。右侧四步写的是页面自己的后续说明：下单并付款、订单页领卡密、按本单入口兑换、回同一账号核对 Plus。这些字在提交前就能看到，不是这次已经做完的结果。
-
-![空白的 Plus 免登录订单表单。数量为 1，接收邮箱未填，四种付款方式都在，安全验证尚未开始，创建订单并去支付按钮可见但未点击。](assets/screenshots/04-order-form-blank.png)
-
-图：未填写的订单表单。
-
-### 填写邮箱并选择微信支付
-
-在接收邮箱里，拍摄时填的是 `tutorial@example.test`。这是不能投递的示例地址，只为演示输入框。你要换成自己能收信的邮箱。不要填 ChatGPT 密码、验证码或授权内容。
-
-然后点「微信支付」。页面接着加载 Cloudflare 安全验证，当时显示 Verifying，创建订单按钮处于不可用状态。图中就是验证进行中，不是验证结束，更不是已经下单。
-
-![订单表单正在验证。邮箱框里是示例地址 tutorial@example.test 的开头，微信支付被选中，Cloudflare 显示 Verifying。](assets/screenshots/05-example-email-wechat-selected-verifying.png)
-
-图：验证进行中。请使用能收信的邮箱，不要使用图里的示例地址。
-
-### 验证完成仍停在提交前
-
-验证组件随后变成 Success，页面写着「验证已完成」。应付金额仍是拍摄当时的 ¥160.00。「创建订单并去支付」可见且已启用。拍摄到这里就停了，没有点击这个按钮。
-
-为便于阅读，下图裁掉了左右空白，按钮和文字没有改。未裁剪原图是 [提交前验证完成的原始截图](assets/screenshots/06-pre-submit-verification-passed.png)。
-
-![裁掉左右空白后的同一张提交前画面。微信支付仍被选中，验证显示 Success 和验证已完成，创建订单并去支付没有被点击。](assets/screenshots/06-pre-submit-focused.png)
-
-图：验证已完成，订单尚未创建。收银台、付款成功和到账都不在这张图里。
-
-### 提交前读商品说明
-
-同一页继续往下，地址是 [Plus 商品页的说明区](https://payforgpt.com/product/7#product-explanations-heading)。上方仍是验证已完成和未点击的创建订单按钮。下方是「商品说明与售后边界」，写着创建订单后可以核对这些资料，真正付款前再确认结算页的金额和付款方式。
-
-Plus 这一段写明：交付兑换卡密，由本人按本单指引自行激活。已有订阅和地区限制按该商品适用条件核对。右侧提醒不要在备注里放订单号、验证码、查单密码和完整卡密。
-
-![商品说明区。上方仍是未点击的创建订单按钮，下方是 Plus 卡密交付说明和付款前要核对的事项。](assets/screenshots/07-product-terms-pre-submit.png)
-
-图：提交前的商品说明。页面提到兑换时可能涉及授权。本教程不演示、也不收集 session、token、cookie、密码或验证码。不收登录密码，不等于没有风险。
-
-已有订阅先看 [付款前核对目标账号和已有订阅](docs/tutorials/02-check-account-before-paying.md)。官方 App 或网页上如果还有会续费的订阅，这张商家订单不会自动把它迁走或取消。
-
-## 这次图里没有的后半段
-
-点击「创建订单并去支付」之后的收银台、收款账号、二维码、付款结果、卡密兑换和账号里的方案变化，这次都没有实拍。不要把上面的图看成购买成功。
-
-你自己提交之后，才会看到结算页。页面写明创建订单本身不扣款，扣款发生在结算页付款时。付款后如果没有跳回，用订单号、原下单邮箱和查单密码查原来的那一笔，不要再付。查单密码只填在订单查询页。文字说明在 [从选商品到查单的充值操作](docs/chatgpt-recharge-guide.md#查原订单)，那一部分不是这组截图。
-
-## 付款后查原订单
-
-这一节没有实拍。拍摄停在创建订单之前，所以这里不是已付款画面。
-
-付款后页面没有跳回，或 ChatGPT 里还没变化，先查原来的那一笔，不要再付。
-
-打开订单查询，填订单号、原下单邮箱和查单密码。状态只描述这张 PayForGPT 订单，不代表官方 API 余额。已完成之后，仍要回目标 ChatGPT 账号看方案名称和周期。收到卡密或页面提示成功，都不等于已经生效。
-
-查单时各状态怎么读，操作长文里有公开页面上的原词。[付款后没有跳回时，先查原订单](docs/tutorials/05-check-original-order.md) 是同一主题的辅助说明。
+各状态的读法在 [付款后查原来的订单](docs/chatgpt-recharge-guide.md#查原订单)。
 
 ## 常见问题
 
-会员里包含 API 额度吗？不包含。ChatGPT 订阅和 API 账单分开。PayForGPT 退款页写明不售 Credits，也不把 API 余额当作本站商品。
+Plus 里包含 API 额度吗？不包含。对话会员和 API 账单是分开的。说明见 [会员和 API 额度](docs/tutorials/01-membership-and-api-balance.md)。
 
-必须把密码交给客服吗？公开页面写的是不收 ChatGPT 登录密码。查单密码只填在订单查询页。不要发送密码、验证码、cookie、session 或 token。
+必须把 ChatGPT 密码交给客服吗？商品页写的是不收登录密码。查单密码只在订单查询页使用。
 
-支付宝或微信一定能付吗？商品页把它们列为可选付款方式。某一单如果结算页没有对应入口，就不要另找二维码。以那一页为准。
-
-已经有 Plus，再买会叠加时间吗？商品页写的是可以覆盖已有订阅，但不会叠加时长。官方渠道上尚未取消的订阅，也不会因为这张商家订单而自动停止。
+支付宝或微信没出现怎么办？只使用这一单页面上有的付款方式。不要扫别人私聊发来的码。
 
 ## 谁在维护
 
-PayForGPT 维护本仓库，并销售上面这些会员商品。指南里的步骤尽量跟着公开页面写。页面改了，以你打开时的商品页和结算页为准。
+PayForGPT 维护这篇教程，也销售文中的 Plus、5x、20x 月卡。商品名称、价格和交付以你打开的商品页为准。
 
 ## 辅助核对
 
-购买步骤以上面和操作长文为准。下面六篇只在你需要核对某一件事时再打开。
+买的过程看上面即可。下面几篇只在你要核对账号、商店订阅或档位名称时再打开。
 
-1. [会员付款和 API 额度不是同一笔账](docs/tutorials/01-membership-and-api-balance.md)
-2. [付款前核对目标账号和已有订阅](docs/tutorials/02-check-account-before-paying.md)
-3. [网页、App Store 和 Google Play 要分开查重](docs/tutorials/03-separate-web-apple-google.md)
-4. [按需求区分 Plus 和 Pro，不要只看商品名](docs/tutorials/04-choose-plus-and-pro.md)
-5. [付款后没有跳回时，先查原订单](docs/tutorials/05-check-original-order.md)
-6. [求助前只收集脱敏信息](docs/tutorials/06-redact-before-asking-for-help.md)
+1. [会员和 API 额度](docs/tutorials/01-membership-and-api-balance.md)
+2. [付款前要核对的账号和渠道](docs/tutorials/02-check-account-before-paying.md)
+3. [网页、App Store 和 Google Play 会不会各扣一笔](docs/tutorials/03-separate-web-apple-google.md)
+4. [Plus 和 Pro 怎么选](docs/tutorials/04-choose-plus-and-pro.md)
+5. [付款后查原来的订单](docs/tutorials/05-check-original-order.md)
+6. [向别人描述问题时怎样打码](docs/tutorials/06-redact-before-asking-for-help.md)
 
-写作规则在 [维护规范](docs/维护规范.md)。外链何时打开过，写在 [事实核验记录](docs/事实核验记录.md)。
+外链核对记录在 [事实核验记录](docs/事实核验记录.md)。
 
-## 来源和更新
-
-本页更新于 2026-11-08。依据是当天直接读取的 PayForGPT 首页、价格目录、Plus / 5x / 20x 商品页、付款说明、订单查询页，以及此前已核对的 OpenAI 帮助页。记录见 [事实核验记录](docs/事实核验记录.md)。
-
-准备下单时，回到 [第三方 PayForGPT 首页](https://payforgpt.com/)，按商品页当时的名称和金额操作。
+准备购买时，打开 [PayForGPT 首页](https://payforgpt.com/)，按当时的 Plus 商品页操作。更新于 2026-11-08。

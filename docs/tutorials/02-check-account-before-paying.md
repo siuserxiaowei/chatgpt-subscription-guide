@@ -1,6 +1,6 @@
 # 付款前核对目标账号和已有订阅
 
-本页由 PayForGPT 维护，和商家有商业关联。它不是 OpenAI 官方文档，也不是独立测评。购买步骤见 [从选商品到查单的充值操作](../chatgpt-recharge-guide.md)。维护关系见 [谁在维护](../../README.md#谁在维护)。
+本页由 PayForGPT 维护，和商家有商业关联。它不是 OpenAI 官方文档，也不是独立测评。购买步骤见 [用支付宝或微信下单 ChatGPT Plus](../chatgpt-recharge-guide.md)。维护关系见 [谁在维护](../../README.md#谁在维护)。
 
 这页帮你在付款之前确认两件事：会员会落到哪个 ChatGPT 账号，以及这个人或这个商店是不是已经有一笔订阅。
 

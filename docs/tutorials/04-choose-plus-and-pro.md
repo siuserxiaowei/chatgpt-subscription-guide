@@ -1,6 +1,6 @@
 # 按需求区分 Plus 和 Pro，不要只看商品名
 
-本页由 PayForGPT 维护，和商家有商业关联。它不是 OpenAI 官方文档，也不是独立测评。购买步骤见 [从选商品到查单的充值操作](../chatgpt-recharge-guide.md)。维护关系见 [谁在维护](../../README.md#谁在维护)。
+本页由 PayForGPT 维护，和商家有商业关联。它不是 OpenAI 官方文档，也不是独立测评。购买步骤见 [用支付宝或微信下单 ChatGPT Plus](../chatgpt-recharge-guide.md)。维护关系见 [谁在维护](../../README.md#谁在维护)。
 
 这页帮你按自己的使用瓶颈选择方向，并防止把官方档位名和商家商品名当成同一个按钮。
 

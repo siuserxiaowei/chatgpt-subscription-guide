@@ -1,6 +1,6 @@
 # 网页、App Store 和 Google Play 要分开查重
 
-本页由 PayForGPT 维护，和商家有商业关联。它不是 OpenAI 官方文档，也不是独立测评。购买步骤见 [从选商品到查单的充值操作](../chatgpt-recharge-guide.md)。维护关系见 [谁在维护](../../README.md#谁在维护)。
+本页由 PayForGPT 维护，和商家有商业关联。它不是 OpenAI 官方文档，也不是独立测评。购买步骤见 [用支付宝或微信下单 ChatGPT Plus](../chatgpt-recharge-guide.md)。维护关系见 [谁在维护](../../README.md#谁在维护)。
 
 这页帮你找出 ChatGPT 订阅现在由谁扣款，以及怎样避免网页、Apple 和 Google 同时各有一笔。
 
