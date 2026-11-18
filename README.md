@@ -76,10 +76,14 @@ OpenAI 公开定价页与 Help Center 在不同时期对高阶个人档位使用
 | 代充安全购买前 8 项核对清单 | [https://payforgpt.com/how-to/chatgpt-recharge-safety-checklist](https://payforgpt.com/how-to/chatgpt-recharge-safety-checklist?utm_source=github_subscription_guide&utm_medium=readme&utm_campaign=seo_202611) |
 | 本站订单进度查询（需原下单邮箱 + 查单密码） | [https://payforgpt.com/order](https://payforgpt.com/order?utm_source=github_subscription_guide&utm_medium=readme&utm_campaign=seo_202611) |
 | 退款与 30 天单名额售后规则全文 | [https://payforgpt.com/refund](https://payforgpt.com/refund?utm_source=github_subscription_guide&utm_medium=readme&utm_campaign=seo_202611) |
+| 充值前 30 秒账号风控自检器（纯浏览器本地） | [https://payforgpt.com/tools/account-precheck](https://payforgpt.com/tools/account-precheck?utm_source=github_subscription_guide&utm_medium=readme&utm_campaign=seo_202611) |
+| 企业/个人报销开票合规自查与预算单生成器 | [https://payforgpt.com/tools/invoice-reimbursement-check](https://payforgpt.com/tools/invoice-reimbursement-check?utm_source=github_subscription_guide&utm_medium=readme&utm_campaign=seo_202611) |
+| English Overview Portal | [https://payforgpt.com/en](https://payforgpt.com/en?utm_source=github_subscription_guide&utm_medium=readme&utm_campaign=seo_202611) |
 
 ---
 
 ## 六、姊妹手册
 
+- 中英双语 12 节排障百科与国内增值税开票指南：[chatgpt-plus-pro-china-invoice-guide-2026](https://github.com/siuserxiaowei/chatgpt-plus-pro-china-invoice-guide-2026)
 - 简明档位与报错速查仓：[chatgpt-plus-recharge-guide-cn](https://github.com/siuserxiaowei/chatgpt-plus-recharge-guide-cn)
 - 安全选购扩展文档仓：[chatgpt-plus-pro-recharge-safety-zh](https://github.com/siuserxiaowei/chatgpt-plus-pro-recharge-safety-zh)
